@@ -54,7 +54,7 @@ Features:
 ▪️Real-time board updates 
 ▪️User vs AI interaction in terminal 
 
-### ✅ Task3: Recommendation System
+### ✅ Task4: Recommendation System
 
 **Description:**
 A content-based recommendation system that suggests 
