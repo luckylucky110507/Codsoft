@@ -58,7 +58,7 @@ Features:
 
 **Description:**
 A content-based recommendation system that suggests 
-similar items (movies/books) using cosine similarity 
+similar items (movies/books/products)using cosine similarity 
 between feature vectors.
 
 **Technology used:**
